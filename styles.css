@@ -39,3 +39,21 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.btn {
+  text-align: center;
+  display: block;
+  margin: 20px auto; /* Centers the button horizontally */
+  padding: 10px 20px; /* Add padding to make the button look nicer */
+  background-color: #B0578D; /* Background color */
+  color: white; /* Text color */
+  border: none; /* Remove border */
+  border-radius: 5px; /* Add border-radius for rounded corners */
+  cursor: pointer; /* Change cursor to pointer on hover */
+  font-size: 1.5rem; /* Font size */
+  font-family: 'Indie Flower', cursive; /* Font family */
+}
+
+.btn:hover {
+  background-color: #954473; /* Change background color on hover */
+}
